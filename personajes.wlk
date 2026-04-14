@@ -1,3 +1,12 @@
+/* 
+  UNIVERSIDAD NACIONAL DE HURLINGHAM
+  INSTITUTO DE TECNOLOGIA E INGENIERÍA
+  PROGRAMACIÓN CON OBJETOS 1 
+  -----------------------------------------
+  Objeto / Mensaje / Definiciones iniciales
+  -----------------------------------------
+*/
+
 import armas.*
 import elementos.*
 
